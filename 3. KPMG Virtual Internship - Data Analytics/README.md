@@ -1,4 +1,4 @@
-## Task 1:
+## Task 1: Data Quality Assessment
 
 Here is the background information on your task
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
@@ -63,7 +63,7 @@ Optional File: A template presentation to fill in for this task
 You may use this file as the basis for the presentation. Feel free to add or remove slides.
 Module_2_Template_slide.pptx
 
-## Task 3:
+## Task 3: Data Insights and Presentation
 
 Here is your task
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
